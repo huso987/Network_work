@@ -22,7 +22,7 @@ def packet_callback(packet):
             logging.info(f"Blocked IP packet from {src_ip} to {dst_ip}")
             return
 
-        # Paket boyutu kontrolü
+        # Paket boyutu ayarlama
         if len(packet) > MAX_PACKET_SIZE:
             logging.info(f"Blocked oversized packet from {src_ip} to {dst_ip} - Size: {len(packet)}")
             return
