@@ -21,9 +21,9 @@ This project implements an advanced firewall using Python and the Scapy library.
 ### Install Scapy
 To install the Scapy library, run:
 
-```bash
 pip install scapy
 
 ### Usage
+
 sudo python3 firewall.py
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
