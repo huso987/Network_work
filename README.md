@@ -27,3 +27,15 @@ pip install scapy
 
 sudo python3 firewall.py
 
+----------------------------------------------------------------------------------------------
+## ospfrouter.py 
+
+This project sets up a dynamic routing network topology using Mininet and Quagga routing software. It demonstrates the configuration of routers with OSPF (Open Shortest Path First) protocol, allowing dynamic routing across a three-router network.
+
+By implementing dynamic routing, the project showcases optimized network traffic flow and the flexibility of using routing protocols to adjust to network changes in real-time.
+
+Prerequisites
+Mininet (recommended OS: Ubuntu)
+Quagga
+Python 3.x
+
