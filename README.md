@@ -34,8 +34,8 @@ This project sets up a dynamic routing network topology using Mininet and Quagga
 
 By implementing dynamic routing, the project showcases optimized network traffic flow and the flexibility of using routing protocols to adjust to network changes in real-time.
 
-Prerequisites
-Mininet (recommended OS: Ubuntu)
-Quagga
-Python 3.x
+### Prerequisites
+- Mininet (recommended OS: Ubuntu)
+- Quagga
+- Python 3.x
 
